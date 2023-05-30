@@ -1,5 +1,5 @@
 # Hello! Welcome to my GitHub profile! 👋
-** My name is Marcos Vinícius and my nickname is Palito! **
+**My name is Marcos Vinícius and my nickname is Palito!**
 
 #### I,m currently learning HTML, CSS and JavaScript
 <div>
