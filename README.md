@@ -2,7 +2,7 @@
 
 **Meu nome é Marcos Vinícius e meu apelido é Palito!** 🤣
 
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%omarcosvinicius"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%omarcosvinicius&label=VISITANTES%20(HOJE%2FTOTAL)&countColor=%23555555" /></a>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fomarcosvinicius"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fomarcosvinicius&countColor=%23263759&style=flat-square" /></a>
 <div style="width: max-content;">
 
 #### 👨‍💻 Tecnologias - Ferramentas 🛠
